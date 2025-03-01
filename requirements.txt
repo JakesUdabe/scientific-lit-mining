@@ -1,0 +1,5 @@
+fitz
+pdfplumber
+pytesseract
+Pillow
+camelot-py[cv]
